@@ -1,4 +1,4 @@
-package kr.pe.gamgoon.hermetization.toby;
+package kr.pe.gamgoon.hermetization.toby.dispatch;
 
 public class Dispatch {
 	static class Service {

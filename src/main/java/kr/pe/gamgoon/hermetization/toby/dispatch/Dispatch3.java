@@ -1,4 +1,4 @@
-package kr.pe.gamgoon.hermetization.toby;
+package kr.pe.gamgoon.hermetization.toby.dispatch;
 
 import java.util.Arrays;
 import java.util.List;

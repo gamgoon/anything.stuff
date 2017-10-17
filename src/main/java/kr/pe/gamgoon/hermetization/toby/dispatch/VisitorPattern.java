@@ -1,4 +1,4 @@
-package kr.pe.gamgoon.hermetization.toby;
+package kr.pe.gamgoon.hermetization.toby.dispatch;
 
 public class VisitorPattern {
 	// 비지터
