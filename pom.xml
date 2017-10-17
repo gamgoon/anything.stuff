@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>kr.pe.gamgoon</groupId>
-  <artifactId>hermetization</artifactId>
+  <artifactId>anything.stuff</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-	<name>hermetization</name>
-	<description>Java hermetization paradigm sample project</description>
+	<name>anything.stuff</name>
+	<description>Java sample project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
