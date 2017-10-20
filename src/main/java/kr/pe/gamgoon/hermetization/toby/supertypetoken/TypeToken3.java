@@ -1,11 +1,11 @@
-package kr.pe.gamgoon.hermetization;
+package kr.pe.gamgoon.hermetization.toby.supertypetoken;
 
 import java.awt.List;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TypeToken {
+public class TypeToken3 {
 	static class TypesafeMap {
 		Map<Class<?>, Object> map = new HashMap<>();
 		
