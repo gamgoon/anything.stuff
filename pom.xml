@@ -40,6 +40,10 @@
 			<artifactId>jbossjta</artifactId>
 			<version>4.16.4.Final</version>
 		</dependency>
+		<dependency>
+			<groupId>org.reactivestreams</groupId>
+			<artifactId>reactive-streams</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
